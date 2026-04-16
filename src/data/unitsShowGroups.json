@@ -1,0 +1,180 @@
+[
+  {
+    "key": "economy",
+    "name": "Economy",
+    "collapsed": false,
+    "units": [
+      "villager",
+      "fishing ship",
+      "farm",
+      "fish trap",
+      "pasture",
+      "monk",
+      "trade cart",
+      "warrior priest",
+      "missionary"
+    ]
+  },
+  {
+    "key": "stable",
+    "name": "Stable",
+    "collapsed": false,
+    "units": [
+      "scout cavalry",
+      "knight",
+      "camel scout",
+      "steppe lancer",
+      "battle elephant",
+      "shrivamsha rider",
+      "hei guang cavalry",
+      "xolotl warrior"
+    ]
+  },
+  {
+    "key": "castle",
+    "name": "Castle",
+    "collapsed": false,
+    "catchAll": true,
+    "units": [
+      "arambai",
+      "ballista elephant",
+      "berserk",
+      "boyar",
+      "camel archer",
+      "cataphract",
+      "centurion",
+      "chakram thrower",
+      "chu ko nu",
+      "composite bowman",
+      "conquistador",
+      "coustillier",
+      "fire archer",
+      "gbeto",
+      "genoese crossbowman",
+      "ghulam",
+      "huskarl",
+      "hussite wagon",
+      "iron pagoda",
+      "jaguar warrior",
+      "janissary",
+      "kamayuk",
+      "karambit warrior",
+      "keshik",
+      "kipchak",
+      "konnik",
+      "leitis",
+      "liao dao",
+      "longbowman",
+      "magyar huszar",
+      "mameluke",
+      "mangudai",
+      "monaspa",
+      "obuch",
+      "organ gun",
+      "plumed archer",
+      "ratha",
+      "rattan archer",
+      "samurai",
+      "serjeant",
+      "shotel warrior",
+      "tarkan",
+      "teutonic knight",
+      "throwing axeman",
+      "tiger cavalry",
+      "urumi swordsman",
+      "war elephant",
+      "war wagon",
+      "white feather guard",
+      "woad raider"
+    ]
+  },
+  {
+    "key": "archery",
+    "name": "Archery Range",
+    "collapsed": false,
+    "units": [
+      "archer",
+      "skirmisher",
+      "cavalry archer",
+      "elephant archer",
+      "hand cannoneer",
+      "grenadier",
+      "xianbei raider",
+      "genitour",
+      "slinger"
+    ]
+  },
+  {
+    "key": "barracks",
+    "name": "Barracks",
+    "collapsed": true,
+    "units": [
+      "militia",
+      "champi scout",
+      "spearman",
+      "eagle scout",
+      "condottiero",
+      "flemish militia",
+      "jian swordsman",
+      "fire lancer"
+    ]
+  },
+  {
+    "key": "navy",
+    "name": "Navy",
+    "collapsed": true,
+    "units": [
+      "fire galley",
+      "galley",
+      "demolition raft",
+      "transport ship",
+      "cannon galleon",
+      "dromon",
+      "caravel",
+      "longboat",
+      "thirisadai",
+      "lou chuan",
+      "turtle ship"
+    ]
+  },
+  {
+    "key": "siege",
+    "name": "Siege Workshop",
+    "collapsed": true,
+    "units": [
+      "battering ram",
+      "armored elephant",
+      "mangonel",
+      "scorpion",
+      "bombard cannon",
+      "war chariot",
+      "siege tower",
+      "flaming camel",
+      "trebuchet",
+      "petard",
+      "mounted trebuchet",
+      "traction trebuchet",
+      "rocket cart"
+    ]
+  },
+  {
+    "key": "building",
+    "name": "Building",
+    "collapsed": true,
+    "units": [
+      "watch tower",
+      "bombard tower",
+      "donjon",
+      "krepost",
+      "castle",
+      "fortified church",
+      "palisade wall",
+      "palisade gate",
+      "stone wall",
+      "gate",
+      "house",
+      "feitoria",
+      "caravanserai"
+    ]
+  }
+]
